@@ -10,6 +10,8 @@ namespace DesignPatternsApp.src.OopPrinciples.Polymorphism
     Morph = forms
     Polymorphism is the ability of an object to take on many forms. In C#, 
     polymorphism is achieved through method overriding and method overloading. 
+    Method Overloading = Same method name, different parameters
+    Method Overriding = Child class changes parent's method behavior
     It allows you to define a single interface
     */
     /*
